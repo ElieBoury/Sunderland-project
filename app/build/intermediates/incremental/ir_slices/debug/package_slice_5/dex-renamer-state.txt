@@ -1,0 +1,4 @@
+#Fri May 10 14:05:04 WEST 2019
+base.0=/home/eboury/Documents/Sunderland project/XDK_Dashboard/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

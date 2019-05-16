@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1de9dd885ac4ee472779d260841f231c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/2e66efb2b1b322ae9b19bab7bee44842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eboury/.gradle/caches/transforms-2/files-2.1/984f5b3c7dc915f65a0c798653c58dcd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/4ec60b971b96d8d08fc3226bc03dee99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/82a275855ea6550faef52a9007785f3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/44d970081c190f5917f3eedfdb1917b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/476eacb3b33b6b5bb7f429de1d676641/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/0b3bd25c6d3a3bb94455a5f643c52637/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/ef1afbd23c0261c2833cac9c754b354c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/e8f2463716855455dba03e8f9e3124e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/0bb74b86bae56911ea50fe5205f5f634/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/d6f1236cf471e6366b6801d302e279c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/e4e04578b6f62e2bd931459cc61e67f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/bc9a6d866d9306aff9427b1657fcb76c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/c1ade42479dcdc899cadc669cc9ef63d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/3d6470421eb5414efd8d17a5ba369d0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/422f1dd8e42adb7e45d744fe56565ad7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/108fdea0f9c1c2a7df0f175ec1335aa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/42fe46d821d0722530644b648ed1aff3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/94d5ff8bd3f4d9372af51318e7b100ed/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1dab41c511843fba8652f5b05dcf7a18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/32834d6c3c9c7933935f3fccb568aa7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/345646f4de0abddc377348dbf2f1c2c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/dda3b599bb7a974504bb1b6622ec6f7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/038ae5004cced5ffdcf890dbf345afda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/bccd9ccd76b6f359e687e26c421580e6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/c1f0cbe8e4c720d2d14b38015bf080b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/eaedaeba00166f2ad48284b36f59d09e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/95f7302b250adbe8f8089b208268c530/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/07f47fe3a17049c77eef73018512a528/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/74270a82443ce33b4e7467f8ed4c99a8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:8:22-72
+application
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support:design:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1de9dd885ac4ee472779d260841f231c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1de9dd885ac4ee472779d260841f231c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eboury/.gradle/caches/transforms-2/files-2.1/984f5b3c7dc915f65a0c798653c58dcd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eboury/.gradle/caches/transforms-2/files-2.1/984f5b3c7dc915f65a0c798653c58dcd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/42fe46d821d0722530644b648ed1aff3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/42fe46d821d0722530644b648ed1aff3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/94d5ff8bd3f4d9372af51318e7b100ed/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/94d5ff8bd3f4d9372af51318e7b100ed/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/42fe46d821d0722530644b648ed1aff3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:14:9-47
+	android:icon
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.xdk_dashboard.MainActivity
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:24:27-74
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:27:9-28:19
+	android:name
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml:27:18-77
+uses-sdk
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1de9dd885ac4ee472779d260841f231c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1de9dd885ac4ee472779d260841f231c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/2e66efb2b1b322ae9b19bab7bee44842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/2e66efb2b1b322ae9b19bab7bee44842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eboury/.gradle/caches/transforms-2/files-2.1/984f5b3c7dc915f65a0c798653c58dcd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eboury/.gradle/caches/transforms-2/files-2.1/984f5b3c7dc915f65a0c798653c58dcd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/4ec60b971b96d8d08fc3226bc03dee99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/4ec60b971b96d8d08fc3226bc03dee99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/82a275855ea6550faef52a9007785f3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/82a275855ea6550faef52a9007785f3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/44d970081c190f5917f3eedfdb1917b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/44d970081c190f5917f3eedfdb1917b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/476eacb3b33b6b5bb7f429de1d676641/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/476eacb3b33b6b5bb7f429de1d676641/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/0b3bd25c6d3a3bb94455a5f643c52637/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/0b3bd25c6d3a3bb94455a5f643c52637/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/ef1afbd23c0261c2833cac9c754b354c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/ef1afbd23c0261c2833cac9c754b354c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/e8f2463716855455dba03e8f9e3124e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/e8f2463716855455dba03e8f9e3124e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/0bb74b86bae56911ea50fe5205f5f634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/0bb74b86bae56911ea50fe5205f5f634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/d6f1236cf471e6366b6801d302e279c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/d6f1236cf471e6366b6801d302e279c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/e4e04578b6f62e2bd931459cc61e67f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/e4e04578b6f62e2bd931459cc61e67f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/bc9a6d866d9306aff9427b1657fcb76c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/bc9a6d866d9306aff9427b1657fcb76c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/c1ade42479dcdc899cadc669cc9ef63d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/c1ade42479dcdc899cadc669cc9ef63d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/3d6470421eb5414efd8d17a5ba369d0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/3d6470421eb5414efd8d17a5ba369d0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/422f1dd8e42adb7e45d744fe56565ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/422f1dd8e42adb7e45d744fe56565ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/108fdea0f9c1c2a7df0f175ec1335aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/108fdea0f9c1c2a7df0f175ec1335aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/42fe46d821d0722530644b648ed1aff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/42fe46d821d0722530644b648ed1aff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/94d5ff8bd3f4d9372af51318e7b100ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/94d5ff8bd3f4d9372af51318e7b100ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1dab41c511843fba8652f5b05dcf7a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/1dab41c511843fba8652f5b05dcf7a18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/32834d6c3c9c7933935f3fccb568aa7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/32834d6c3c9c7933935f3fccb568aa7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/345646f4de0abddc377348dbf2f1c2c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/345646f4de0abddc377348dbf2f1c2c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/dda3b599bb7a974504bb1b6622ec6f7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/dda3b599bb7a974504bb1b6622ec6f7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/038ae5004cced5ffdcf890dbf345afda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/038ae5004cced5ffdcf890dbf345afda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/bccd9ccd76b6f359e687e26c421580e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/bccd9ccd76b6f359e687e26c421580e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/c1f0cbe8e4c720d2d14b38015bf080b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/c1f0cbe8e4c720d2d14b38015bf080b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/eaedaeba00166f2ad48284b36f59d09e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/eboury/.gradle/caches/transforms-2/files-2.1/eaedaeba00166f2ad48284b36f59d09e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/95f7302b250adbe8f8089b208268c530/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/95f7302b250adbe8f8089b208268c530/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/07f47fe3a17049c77eef73018512a528/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/07f47fe3a17049c77eef73018512a528/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/74270a82443ce33b4e7467f8ed4c99a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/eboury/.gradle/caches/transforms-2/files-2.1/74270a82443ce33b4e7467f8ed4c99a8/AndroidManifest.xml:20:5-44
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		ADDED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eboury/Documents/Sunderland project/XDK_Dashboard/app/src/main/AndroidManifest.xml

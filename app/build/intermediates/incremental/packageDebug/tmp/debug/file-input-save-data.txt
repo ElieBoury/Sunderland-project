@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 14 16:06:06 WEST 2019
+0.baseType=DIRECTORY
+0.base=/home/eboury/Documents/Sunderland project/XDK_Dashboard/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

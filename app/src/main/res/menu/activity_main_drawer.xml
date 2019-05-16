@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item android:title="Sensors">
+        <menu>
+            <item
+                android:id="@+id/nav_light"
+                android:icon="@drawable/ic_light"
+                android:title="Light" />
+            <item
+                android:id="@+id/nav_temperature"
+                android:icon="@drawable/ic_temperature"
+                android:title="Temperature" />
+            <item
+                android:id="@+id/nav_humidity"
+                android:icon="@drawable/ic_humidity"
+                android:title="Humidity" />
+            <item
+                android:id="@+id/nav_pressure"
+                android:icon="@drawable/ic_pressure"
+                android:title="Pressure" />
+            <item
+                android:id="@+id/nav_acoustic"
+                android:icon="@drawable/ic_accoustic"
+                android:title="Acoustic" />
+            <item
+                android:id="@+id/nav_accelerometer"
+                android:icon="@drawable/ic_accelerometer"
+                android:title="Accelerometer" />
+            <item
+                android:id="@+id/nav_gyroscope"
+                android:icon="@drawable/ic_gyroscope"
+                android:title="Gyroscope" />
+            <item
+                android:id="@+id/nav_magnetometer"
+                android:icon="@drawable/ic_action_magnet"
+                android:title="Magnetometer" />
+        </menu>
+    </item>
+
+</menu>

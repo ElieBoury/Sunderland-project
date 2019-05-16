@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE"
+    android:src="@drawable/blue"
+    android:scaleType="centerCrop"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <TextView
+        android:id="@+id/liveValueTV"
+        android:layout_width="126dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:text="Live value :"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/lastValuesTV"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sensor" />
+
+    <TextView
+        android:id="@+id/lastValuesTV"
+        android:layout_width="154dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="10dp"
+        android:text="Last values :"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/dataList"
+        app:layout_constraintStart_toStartOf="@+id/liveValueTV"
+        app:layout_constraintTop_toBottomOf="@+id/liveValueTV" />
+
+    <TextView
+        android:id="@+id/sensor"
+        android:layout_width="389dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="37dp"
+        android:gravity="center_horizontal"
+        android:text="Sensor"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/liveValueTV"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ListView
+        android:id="@+id/dataList"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="47dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lastValuesTV" />
+
+</android.support.constraint.ConstraintLayout>

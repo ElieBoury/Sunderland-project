@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eboury/Documents/Sunderland project/XDK_Dashboard/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/eboury/.gradle/caches/transforms-2/files-2.1/2e66efb2b1b322ae9b19bab7bee44842/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
