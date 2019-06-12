@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity
     private TextView description;
     private TextView sensor;
     private ListView dataList;
+
+    //URl of the PHP page
     private final String url = "https://fas-webteach.sunderland.ac.uk/~ex0eby/getValuesOfDatabase.php";
 
     @Override
@@ -60,6 +62,7 @@ public class MainActivity extends AppCompatActivity
 
         downloadJSON(url, "");
 
+        //Test of MQTT
         //MQTT
         /*String clientId = MqttClient.generateClientId();
         MqttAndroidClient client =
@@ -144,6 +147,7 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
+    //Get the data of the database using the PHP page
     private void downloadJSON(final String urlWebService, final String sensor) {
 
         class DownloadJSON extends AsyncTask<Void, Void, String> {
